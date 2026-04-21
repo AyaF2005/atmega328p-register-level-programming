@@ -1,4 +1,4 @@
-# ATmega328P Register-Level Programming 🔧
+# ATmega328P Register-Level Programming 
 
 Direct hardware register programming on the ATmega328P microcontroller (Arduino Uno),
 bypassing Arduino library abstractions to control peripherals at the hardware level.
